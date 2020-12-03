@@ -1,3 +1,4 @@
 [submodule "vendor/macadam"]
 	path = vendor/macadam
 	url = git@github.com:moe123/macadam.git
+	branch = aerendir
