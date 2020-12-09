@@ -2,3 +2,7 @@
 	path = vendor/macadam
 	url = git@github.com:moe123/macadam.git
 	branch = aerendir
+[submodule "open_mpw_precheck"]
+	path = vendor/open_mpw_precheck
+	url = https://github.com/efabless/open_mpw_precheck.git
+	branch = main
